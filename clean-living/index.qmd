@@ -1,0 +1,19 @@
+---
+title: "Clean Living"
+description: "Healthier homes, mindful choices, and practical approaches to sustainable living"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories, reading-time]
+page-layout: full
+---
+
+Welcome to the Clean Living section of Rachel Living.
+
+Clean living is about making thoughtful choices that support both personal well-being and environmental responsibility. Here you'll find practical guides, advice, and carefully considered recommendations for creating a healthier home and a more sustainable lifestyle.
+
+## Latest Articles

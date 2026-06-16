@@ -1,0 +1,19 @@
+---
+title: "Fashion"
+description: "Style tips, wardrobe inspiration, and sustainable fashion ideas"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories, reading-time]
+page-layout: full
+---
+
+Welcome to the Fashion section of Rachel Living.
+
+Style is most rewarding when it reflects your values as well as your personality. Here you'll find thoughtful guides, wardrobe inspiration, and practical advice for building a collection of clothing that is beautiful, versatile, and made to last.
+
+## Latest Articles

@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Rachel Living"
+  description: "Your guide to gardens, style, and clean living"
+
+  navbar: false
+
+  sidebar: false
+
+  page-footer:
+    center: |
+      <span style="
+        font-family: 'Great Vibes', cursive;
+        font-size: 24px;
+        color: #7D8C6A;">Rachel Living</span>
+      <br>
+      <span style="
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-size: 10px;
+        letter-spacing: 3px;
+        color: #7D8C6A;">© 2026 · ALL RIGHTS RESERVED</span>
+      <br>
+      <span style="
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-size: 10px;
+        color: #7D8C6A;">
+        This site contains affiliate links. I may earn a small
+        commission at no extra cost to you.
+      </span>
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    include-before-body: _header.html
+
+editor: visual

@@ -1,0 +1,41 @@
+/* Google Font — loaded here as backup */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+/* Hide Quarto's default navbar */
+#quarto-header {
+  display: none;
+}
+
+/* Left-align article body text */
+article p,
+article li {
+  text-align: left;
+}
+
+/* Footer styling */
+.nav-footer {
+  border-top: 0.5px solid #C0DD97;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Improve readability */
+article p {
+  line-height: 1.7;
+}
+
+/* Link Styling */
+a {
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Constrain content width for readability */
+#quarto-content {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}

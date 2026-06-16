@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/gardens/index.html",
+    "items": [
+      "/gardens/posts/best-houseplants-for-all-seasons.html",
+      "/gardens/posts/best-houseplants-for-great-skin.html"
+    ]
+  },
+  {
+    "listing": "/fashion/index.html",
+    "items": []
+  },
+  {
+    "listing": "/clean-living/index.html",
+    "items": [
+      "/clean-living/posts/how-to-clean-stone-tiles.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/clean-living/posts/how-to-clean-stone-tiles.html",
+      "/gardens/posts/best-houseplants-for-all-seasons.html",
+      "/gardens/posts/best-houseplants-for-great-skin.html"
+    ]
+  }
+]

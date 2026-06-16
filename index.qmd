@@ -1,0 +1,58 @@
+---
+title: ""
+page-layout: full
+listing:
+  - id: latest-posts
+    contents:
+      - gardens/posts
+      - fashion/posts
+      - clean-living/posts
+    sort: "date desc"
+    type: grid
+    max-items: 6
+    categories: false
+    fields: [image, date, title, description, categories]
+---
+
+Here you'll find honest, research-backed guides on growing beautiful gardens, 
+building a conscious wardrobe, and maintaining a naturally clean home, so you 
+can make choices that are good for you and the planet.
+
+Struggling to find truly non-toxic cleaning solutions? Looking for durable gardening tools that actually last?
+Trying to build a wardrobe that reflects your values? You'll find practical answers here. 
+
+## What You'll Find Here
+
+::::  {.grid}
+
+::: {.g-col-4}
+### Gardens
+From container gardening to farm-grown wisdom: practical guides for every kind of grower.
+
+[Explore Gardens →](gardens/index.qmd)
+:::
+
+::: {.g-col-4}
+### Fashion
+Sustainable fashion guides, capsule wardrobes, and style inspiration. 
+
+[Explore Fashion →](fashion/index.qmd)
+:::
+
+::: {.g-col-4}
+### Clean Living
+Natural cleaning solutions, healthier home products, and practical ways to reduce everyday toxins.
+
+[Explore Clean Living →](clean-living/index.qmd)
+:::
+
+::::
+
+## Latest Posts
+
+::: {#latest-posts}
+:::
+
+---
+
+*Recommendations are based on independent research, careful evaluation, and a commitment to sustainable living principles.*

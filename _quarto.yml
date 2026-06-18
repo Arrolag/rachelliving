@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  resources: google4a78e1126ae1d743.html
 
 website:
   title: "Rachel Living"

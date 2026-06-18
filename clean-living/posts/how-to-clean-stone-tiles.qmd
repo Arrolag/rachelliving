@@ -1,42 +1,37 @@
 ---
-title: "How to Clean Natural Stone Tiles"
-description: "A complete guide to cleaning and maintaining your natural stone floors the right way"
+title: "Fixing Sandstone in High Humidity: Lessons Learned"
+description: "Is your sandstone driveway flaking or covered in black mold? Learn how to safely clean, repair spalling, and choose the right breathable sealer for humid climates."
 date: 2026-06-17
-categories: [cleaning, natural-home, stone-floors]
+categories: [cleaning, natural-stones, stone-sealing]
 image: "../../images/natural-stone-floor.JPG"
 author: "Rachel"
 draft: false
 toc: true
 ---
 
-If you, like me, have a stone-tiled floor and wonder how you can spruce it up, this article gives tips that’ll help you do just that.
+I was super excited when we installed Galana stones in our small (6 m by 4 m) driveway. We'd just bought a small mid-terrace house at the Kenyan coast and were sprucing it up to make it more liveable. 
+I'm a stubborn barefooter, so I couldn't wait to experience walking on the stones. Also, as we were working on a tight budget, it was a relief to find an affordable, eco-friendly flooring solution for our outdoor space to contrast the ceramic tiles inside.
 
-Today, many people use natural stones on their floors because they are durable, easy to clean and maintain, and have a natural, versatile look that enhances the interior design of a house. Popular stone flooring choices are granite, slate, marble, and limestone. Because these stones have minerals that can react with the ingredients in typical cleaning solutions, it is advisable to carefully select the type of cleaners you use on your floor. Natural stone can be easily stained when liquids like fruit juice or oil spill on it. To prevent the floor from staining, clean spills as soon as they happen to prevent absorption into the porous top layer of the stone. You can also coat your stone floor with a good sealer to protect it from staining spills and other contaminants like fungus and molds.
+Galana stones, also known as Mazeras stones, are a type of natural sandstone rich in quartz and iron oxides, which give them their famous, rich earthy coloring. They are often mined as layered sheets, which are then split into slabs for flooring or wall cladding.
 
-Here are some tips on how to care for natural stone floors:
 
--   Use appropriate cleaning products.
+I can't say we were blind to the drainage issues in our driveway when we decided to install the stones. Two of my neighbors had extended their properties and altered their gutters to empty onto my driveway, significantly increasing the amount of rainwater falling my way (the nerve, right!). We'd installed a downpipe and a tank to collect this water, but quite a lot of it still flowed out. 
 
-Use gentle cleaners that will not harm the floor surface. Avoid products containing acids, abrasives, or bleach. Instead use neutral detergents that will not scratch the stone surface, affecting the stone coloring or the seal.
+We discussed this issue with the mason we contracted to do the work, and they tried to remedy it by grading the driveway to channel the runoff away from the house. They also recommended sealing the stone with an appropriate sealer to protect it from the excessive water. A local painter recommended using [**Crown Transeal Acrylic Clear Finish**](https://www.crownpaints.co.ke/product/crown-transeal-acrylic-clear-finish/). We should have read up on the product because it was the wrong sealer to use. In fact, its manufacturers clearly state this on its description page: "Transeal is designed for interior use and should not be applied to exterior surfaces subjected to strong sunlight." Grrr, how foolish could we be!
 
--   Clean spills immediately.
+## Sun and Rain
 
-Use blotting paper or a dry cloth to soak up spills before flushing with lots of clean water. You can then dry the affected area with a cloth. Don’t wipe or rub spills as they may instead penetrate the stone and spread on the floor.
+It didn't take long for us to realize our mistake. A few months down the line and the seal was blistering and peeling almost everywhere. You see, the Transeal had formed an almost plastic layer on top of the stone, trapping moisture that rose from the ground beneath the driveway. Heated by the scorching coastal sun, the trapped moisture would vaporize and cook the stone beneath the seal, forcing the top layers of our precious stone to pop and crack. Anytime something heavy, like a car, rolled over the driveway, the stone cracked some more.
 
--   Seal the stone regularly.
 
-Seal the stone flooring to prevent its porous surface from absorbing liquids or bacteria common in and about the home environment. A sealer creates a layer on the floor, protecting it against harmful substances like spills or stains, general wear and tear, and UV rays. Seek the services of a stone sealing professional if you don’t know the first thing about repairing or sealing stones. You may eventually learn how to do it yourself with time and patience.
+![Cracks on Our Galana](../images/peeling-stone.JPG){fig-cap="Cracks on Our Galana"}
 
--   Use the following steps to clean the floor regularly, removing accumulated dirt:
+We also noticed that algae and black mold were beginning to grow in corners and other unsealed areas. The gentle slope in the driveway helped drain a lot of rainwater, but some water still remained on the floor, especially in the cracked areas. I think it helped some that I cleaned and dried the driveway daily, rain or no rain.   
 
-1.  Sweep the floor surface using a broom with soft bristles.
+![Mold on Floor-Wall Joint](../images/moldy-galana.JPG){fig-cap="*Mold on Floor-Wall Joint*"}
 
-2.  Dilute ¼ cup of neutral detergent with a gallon of warm water to prepare the mopping solution.
 
-3.  Mop the floor with the prepared solution.
+## The Cleaning Process
 
-4.  Wipe the floor using clean water to remove any remaining solution.
+Knowing that the acrylic sealer wasn't suitable for our outdoor space, we recruited a mason to help us strip it from our stones. We also needed help cleaning the black mold from the corners they'd made home.  
 
-5.  Dry the floor.
-
-Taking care of stone floors doesn’t have to be complicated. By following a few simple habits, like gentle and regular cleaning, you can keep your stone looking superb for a long time. Nothing beats staying in a house with clean, well-maintained natural flooring.

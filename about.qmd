@@ -43,6 +43,14 @@ This blog exists at the intersection of beauty, utility, and sustainability. My 
 
 Every guide, review, and recommendation here is researched with the same rigour I've brought to everything I've done because you deserve honest, well-considered advice, not just another list of sponsored products.
 
+
+## Find Me On
+
+::: {style="display: flex; gap: 3rem; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"}
+<a href="https://pinterest.com/your-username" target="_blank" style="color: #7D8C6A;">📌 Pinterest</a>
+<a href="https://youtube.com/@your-channel" target="_blank" style="color: #7D8C6A;">▶️ YouTube</a>
+:::
+
 ## Work With Me
 
 Rachel Living is open to collaborations with brands that share a genuine commitment to sustainability, quality, and conscious living. If that sounds like you, I'd love to hear from you.

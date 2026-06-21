@@ -38,5 +38,8 @@ format:
     css: styles.css
     toc: false
     include-before-body: _header.html
+    include-in-header:
+      text: |
+        <meta name="p:domain_verify" content="46a610b3ef2de4d55584c4bd34bf7c63"/>
 
 editor: visual

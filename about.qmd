@@ -5,9 +5,25 @@ page-layout: full
 
 ## Meet Rachel
 
+:::::: {style="display: grid; grid-template-columns: 280px 1fr; gap: 2rem; align-items: center;"}
+
+<div>
+
+![Rachel](images/){style="width: 100%;"}
+
+
+</div>
+
+<div>
+
 I'm a writer, a grower, and a firm believer that the way we keep our homes, tend our gardens, and dress ourselves says everything about how we choose to live.
 
 My path has been anything but straight, and I wouldn't have it any other way. Over the years I've worn many hats: teacher, copywriter, editor, and researcher. What connects them all is a love of learning, a sharp eye for detail, and a deep commitment to getting things right. When I recommend something on Rachel Living, you can trust that it's been thought through.
+
+</div>
+
+::::::
+
 
 **From my Parents' Farm to my Backyard**
 
@@ -23,7 +39,7 @@ Today my sanctuary is a thriving container garden of Aloe veras, snake plants, a
 <div>
 
 ::: {style="height: 250px; overflow: hidden;"}
-![A peak at my Corn Plant](images/corn-plant.JPG){style="width: 100%; height: 100%; object-fit: cover;"}
+![A peak at my Corn Plant](images/corn-plant.webp){style="width: 100%; height: 100%; object-fit: cover;"}
 :::
 
 *A peak at my Corn Plant*

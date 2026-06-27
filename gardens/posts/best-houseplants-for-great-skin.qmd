@@ -3,7 +3,7 @@ title: "3 Best Houseplants for Great Skin"
 description: "These three amazing houseplants don't just look good, they could make you look good too"
 date: 2026-06-15
 categories: [houseplants, skincare, natural-beauty]
-image: "../../images/Snake_Plant.JPG"
+image: "../../images/aloe-vera.webp"
 author: "Rachel"
 draft: false
 toc: true

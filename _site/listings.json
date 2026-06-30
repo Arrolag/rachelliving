@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/gardens/index.html",
+    "listing": "/index.html",
     "items": [
+      "/clean-living/posts/fixing-sandstone-in-high-humidity.html",
       "/gardens/posts/3-best-houseplants-for-all-seasons.html",
       "/gardens/posts/best-houseplants-for-great-skin.html"
     ]
@@ -17,9 +18,8 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/gardens/index.html",
     "items": [
-      "/clean-living/posts/fixing-sandstone-in-high-humidity.html",
       "/gardens/posts/3-best-houseplants-for-all-seasons.html",
       "/gardens/posts/best-houseplants-for-great-skin.html"
     ]

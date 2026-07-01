@@ -41,7 +41,8 @@ format:
     include-in-header:
       - text: |
           <meta name="p:domain_verify" content="46a610b3ef2de4d55584c4bd34bf7c63"/>
-          <meta name='impact-site-verification' value='94a2a047-d766-426f-bbcf-0e431c9d423b'>
+      - _impact.html
+          
         
 
 editor: visual

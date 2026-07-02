@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -141,7 +141,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QWNjZXNzb3JpZXM=">Accessories <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmFzaGlvbg==">Fashion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3VzdGFpbmFibGUlMjBMaXZpbmc=">Sustainable Living <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 <!-- Masthead -->
@@ -331,7 +331,42 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-categories="RmFzaGlvbiUyQ0FjY2Vzc29yaWVzJTJDU3VzdGFpbmFibGUlMjBMaXZpbmc=" data-listing-date-sort="1782853200000" data-listing-file-modified-sort="1783001857672" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="842">
+<a href="../fashion/posts/why-i-ditched-my-premium-pu-leather-wallets-for-a-cheaper-pvc-pouch.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/w-beauty-pouch.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Why I Ditched My Premium PU Leather Wallets for a Cheaper PVC Pouch
+</h5>
+<div class="listing-reading-time card-text text-muted">
+5 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RmFzaGlvbg=='); return false;">
+Fashion
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('QWNjZXNzb3JpZXM='); return false;">
+Accessories
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VzdGFpbmFibGUlMjBMaXZpbmc='); return false;">
+Sustainable Living
+</div>
+</div>
+<div class="card-text listing-description">
+After two premium PU leather wallets fell victim to mold in my humid coastal home, a budget PVC makeup pouch outlasted them both. Here’s why.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 1, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

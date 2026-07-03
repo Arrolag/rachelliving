@@ -3,7 +3,7 @@ title: "Fixing Sandstone in High Humidity: Lessons Learned"
 description: "Is your sandstone driveway flaking or covered in black mold? Learn how to safely clean, repair spalling, and choose the right breathable sealer for humid climates."
 date: 2026-06-17
 categories: [cleaning, natural-stones, stone-sealing]
-image: "../../images/natural-stone-floor.webp"
+image: "../../images/galana-stones.webp"
 author: "Rachel"
 draft: false
 toc: true

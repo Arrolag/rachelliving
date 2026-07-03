@@ -3,7 +3,7 @@ title: "3 Best Houseplants for All Seasons"
 description: "Discover the best houseplants that thrive beautifully in every season of the year"
 date: 2026-06-15
 categories: [houseplants, indoor-garden]
-image: "../../images/Snake_Plant.webp"
+image: "../../images/my-snakies.webp"
 author: "Rachel"
 draft: false
 toc: true

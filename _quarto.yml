@@ -6,17 +6,24 @@ project:
 website:
   title: "Rachel Living"
   description: "Your guide to gardens, style, and clean living"
-
   navbar: false
-
   sidebar: false
-
   page-footer:
     center: |
       <span style="
         font-family: 'Great Vibes', cursive;
         font-size: 24px;
         color: #7D8C6A;">Rachel Living</span>
+      <br>
+      <span style="
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-size: 10px;
+        letter-spacing: 2px;
+        color: #7D8C6A;">
+        <a href="/privacy-policy.qmd" style="color: #7D8C6A; text-decoration: none;">Privacy Policy</a>
+        &nbsp;·&nbsp;
+        <a href="/affiliate-disclosure.qmd" style="color: #7D8C6A; text-decoration: none;">Affiliate Disclosure</a>
+      </span>
       <br>
       <span style="
         font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -28,8 +35,8 @@ website:
         font-family: 'Helvetica Neue', Arial, sans-serif;
         font-size: 10px;
         color: #7D8C6A;">
-        This site contains affiliate links. I may earn a small
-        commission at no extra cost to you.
+        This site contains affiliate links. Read our
+        <a href="affiliate-disclosure.qmd" style="color: #7D8C6A;">Affiliate Disclosure</a>.
       </span>
 
 format:

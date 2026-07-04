@@ -1,0 +1,87 @@
+---
+title: "Privacy Policy"
+---
+
+*Last updated: July 4, 2026*
+
+Rachel Living ("we," "us," or "our") respects your privacy and is committed to protecting it through this Privacy Policy. This page explains what information we collect when you visit this website, how we use it, and what choices you have.
+
+## Information We Collect
+
+### Information You Provide Directly
+
+If you contact us by email, we may collect your name, email address, and any information you include in your message. We use this information solely to respond to your inquiry.
+
+### Information Collected Automatically
+
+We do not currently use analytics or visitor-tracking tools such as Google Analytics. Our hosting provider may automatically process limited technical information, such as IP addresses and browser information, as part of operating and securing the website. We do not use this information to identify individual visitors. If we add analytics tools in the future, we will update this policy accordingly.
+
+### Affiliate Tracking Cookies
+
+Rachel Living participates in affiliate marketing programs. When you click certain links on our website, affiliate partners or retailers may place cookies on your device to track referrals and attribute qualifying purchases. These cookies are governed by the privacy policies of the respective affiliate networks and retailers.
+
+For more on how affiliate links work on this site, see our [Affiliate Disclosure](affiliate-disclosure.qmd){target="_blank"}.
+
+## How We Use Your Information
+
+We use the information described above to:
+
+- Respond to messages sent to us by email
+
+- Support the operation of affiliate links through affiliate tracking cookies, where applicable
+
+- Maintain and secure our website
+
+We do **not** sell your personal information to third parties.
+
+## Legal Basis for Processing (GDPR/UK GDPR)
+
+For visitors in the UK and European Economic Area, our legal basis for processing your information is:
+
+- **Consent** — where required for affiliate cookies and similar technologies
+
+- **Legitimate interest** — for responding to emails, maintaining the website, and ensuring its security
+
+## Cookies
+
+Cookies are small text files stored on your device. Currently, the only cookies used on this site are:
+
+- **Affiliate attribution cookies** — set by retailers or affiliate networks to credit us for purchases made through our affiliate links
+
+We do not use analytics or advertising cookies at this time. If that changes, this section will be updated.
+
+You can control or disable cookies through your browser settings at any time. Note that disabling cookies may affect the functionality of some parts of the site, and may prevent affiliate networks from properly attributing purchases.
+
+## Third-Party Links and Services
+
+Our site contains links to third-party websites, including retailers and affiliate partners. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policy of any site you visit.
+
+Third-party websites and affiliate partners may include:
+
+- **Amazon Associates** — [Amazon Privacy Notice](https://www.amazon.com/privacy){target="_blank"}
+
+- **AliExpress** — [AliExpress Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html){target="_blank"}
+
+- Additional affiliate networks, as disclosed on individual posts where applicable
+
+## Data Retention
+
+Emails and inquiries sent to us are retained only as long as necessary to respond and are deleted periodically thereafter. 
+
+## Your Rights
+
+If you are located in the UK, European Economic Area, or another region with applicable privacy laws, you may have additional rights regarding your personal information.
+
+## Children's Privacy
+
+Rachel Living is intended for a general audience and is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information to us, please contact us so we can remove it. 
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.
+
+## Contact Us
+
+If you have questions about this Privacy Policy or how your data is handled, please contact us at:
+
+**Email:** [your-email-here]

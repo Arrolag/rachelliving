@@ -26,11 +26,11 @@ For more on how affiliate links work on this site, see our [Affiliate Disclosure
 
 We use the information described above to:
 
-- Respond to messages sent to us by email
+-   Respond to messages sent to us by email
 
-- Support the operation of affiliate links through affiliate tracking cookies, where applicable
+-   Support the operation of affiliate links through affiliate tracking cookies, where applicable
 
-- Maintain and secure our website
+-   Maintain and secure our website
 
 We do **not** sell your personal information to third parties.
 
@@ -38,15 +38,15 @@ We do **not** sell your personal information to third parties.
 
 For visitors in the UK and European Economic Area, our legal basis for processing your information is:
 
-- **Consent** — where required for affiliate cookies and similar technologies
+-   **Consent** — where required for affiliate cookies and similar technologies
 
-- **Legitimate interest** — for responding to emails, maintaining the website, and ensuring its security
+-   **Legitimate interest** — for responding to emails, maintaining the website, and ensuring its security
 
 ## Cookies
 
 Cookies are small text files stored on your device. Currently, the only cookies used on this site are:
 
-- **Affiliate attribution cookies** — set by retailers or affiliate networks to credit us for purchases made through our affiliate links
+-   **Affiliate attribution cookies** — set by retailers or affiliate networks to credit us for purchases made through our affiliate links
 
 We do not use analytics or advertising cookies at this time. If that changes, this section will be updated.
 
@@ -58,15 +58,15 @@ Our site contains links to third-party websites, including retailers and affilia
 
 Third-party websites and affiliate partners may include:
 
-- **Amazon Associates** — [Amazon Privacy Notice](https://www.amazon.com/privacy){target="_blank"}
+-   **Amazon Associates** — [Amazon Privacy Notice](https://www.amazon.com/privacy){target="_blank"}
 
-- **AliExpress** — [AliExpress Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html){target="_blank"}
+-   **AliExpress** — [AliExpress Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html){target="_blank"}
 
-- Additional affiliate networks, as disclosed on individual posts where applicable
+-   Additional affiliate networks, as disclosed on individual posts where applicable
 
 ## Data Retention
 
-Emails and inquiries sent to us are retained only as long as necessary to respond and are deleted periodically thereafter. 
+Emails and inquiries sent to us are retained only as long as necessary to respond and are deleted periodically thereafter.
 
 ## Your Rights
 
@@ -74,7 +74,7 @@ If you are located in the UK, European Economic Area, or another region with app
 
 ## Children's Privacy
 
-Rachel Living is intended for a general audience and is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information to us, please contact us so we can remove it. 
+Rachel Living is intended for a general audience and is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information to us, please contact us so we can remove it.
 
 ## Changes to This Policy
 
@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy or how your data is handled, please contact us at:
 
-**Email:** [your-email-here]
+**Email:** \[your-email-here\]

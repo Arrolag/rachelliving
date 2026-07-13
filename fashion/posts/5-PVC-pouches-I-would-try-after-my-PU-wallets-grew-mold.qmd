@@ -42,13 +42,13 @@ It can also be repurposed as an everyday wallet. Its interior compartments shoul
 ## If You Like a Glossy Finish
 
 ::: {layout-ncol="2"}
-![](../images/ovwqt-bag-2.webp)
+![](../images/ovwqt-bag-2.webp){width="60%"}
 
-![](../images/ovwqt-bag-4.webp)
+![](../images/ovwqt-bag-4.webp){width="60%"}
 :::
 
-::: {.caption style="text-align: center; color: gray;"}
-The Ovwqt Checkered Bag
+::: {.grid-caption}
+The Ovwqt checkered bag
 :::
 
 When I came across the [Ovwqt checkered bag (#ad)](https://amzn.to/44R9X9M){target="_blank"}, I knew I had to add it to this roundup. It combines the same practical PVC exterior that first won me over with a glossy finish that complements its black-and-cream checkerboard design, giving it a look that feels both playful and classic.

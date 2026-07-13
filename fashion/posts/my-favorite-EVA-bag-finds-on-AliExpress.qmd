@@ -3,7 +3,7 @@ title: "My Favorite EVA Bag Finds on AliExpress"
 description: "A quick shopping list of EVA tote bags that caught my eye while browsing AliExpress. These are curated finds, not hands-on reviews."
 date: 2026-07-11
 categories: [Fashion, Shopping Finds, Bags]
-image: "../../images/EVA-bags-pin.webp"
+image: "../../images/shoulderbag-yellow.png"
 author: "Rachel"
 draft: false
 toc: true
@@ -15,7 +15,7 @@ toc: true
 This article contains affiliate links. If you purchase a product through one of these links, I may earn a small commission at no extra cost to you. The bags featured here are shopping finds that caught my eye while browsing AliExpress. Unless otherwise stated, they are not products I have personally purchased or tested.
 :::
 
-![](../images/EVA-bags-pin.webp)
+![](../images/EVA-bags-pin.webp){width="50%" fig-align="center" fig-alt="My favorite EVA bag finds on AliExpress"}
 
 ## A Few EVA Bags That Caught My Eye
 

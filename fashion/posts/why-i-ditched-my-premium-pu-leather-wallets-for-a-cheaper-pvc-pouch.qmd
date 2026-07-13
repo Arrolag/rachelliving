@@ -34,12 +34,12 @@ Looking back, I probably should have read the labels before buying them. Then I'
 The next time I pulled the wallets out of storage, the mold was back. The material was also peeling and cracking, and the wallets looked far older than they should have after only two years. I'd never seen anything like it.
 
 ::: {layout-ncol="2"}
-![](../images/moldy-wallet.webp)
+![](../images/moldy-wallet.webp){width="60%"}
 
-![](../images/peeled-wallet.webp)
+![](../images/peeled-wallet.webp){width="60%"}
 :::
 
-::: {.caption style="text-align: center; color: gray;"}
+::: {.grid-caption}
 My PU leather wallets
 :::
 
@@ -57,7 +57,7 @@ For me, it was love at first sight. I didn't overthink it. It went right into my
 
 ## Two Years Later, It's Still Going Strong
 
-![My Makeup Pouch turned wallet](../images/w-beauty-pouch.webp)
+![My makeup pouch turned wallet](../images/w-beauty-pouch.webp){width="60%" fig-align="center"}
 
 Fast forward two years, and that little pouch is still my everyday wallet. Somewhere along the way, I stopped thinking of it as a makeup pouch. It had simply become my wallet.
 

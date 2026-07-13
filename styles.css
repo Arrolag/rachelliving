@@ -39,3 +39,15 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* center figure captions */
+figure > figcaption {
+  text-align: center;
+}
+
+.grid-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6d7a86;
+  margin-top: -0.8rem;
+}

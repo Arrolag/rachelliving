@@ -3,7 +3,7 @@ title: "3 Best Houseplants for All Seasons"
 description: "Discover the best houseplants that thrive beautifully in every season of the year"
 date: 2026-06-15
 categories: [houseplants, indoor-garden]
-image: "../../images/my-snakies.webp"
+image: "../../images/snaky-moonshine.webp"
 author: "Rachel"
 draft: false
 toc: true
@@ -149,7 +149,7 @@ I sometimes polish the leaves with the inside of a banana peel for an extra glos
 ![](../images/moonshine.webp){width="60%"}
 :::
 
-::: {.grid-caption}
+::: grid-caption
 My Snakies: Two Moonshines and a Zebra
 :::
 

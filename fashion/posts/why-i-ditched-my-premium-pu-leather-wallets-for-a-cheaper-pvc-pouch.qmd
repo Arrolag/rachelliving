@@ -39,7 +39,7 @@ The next time I pulled the wallets out of storage, the mold was back. The materi
 ![](../images/peeled-wallet.webp){width="60%"}
 :::
 
-::: {.grid-caption}
+::: grid-caption
 My PU leather wallets
 :::
 

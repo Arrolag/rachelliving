@@ -1,0 +1,25 @@
+---
+title: "Shop the Feed"
+description: "Find links to the products featured in my videos and Pins, so you can learn more or shop the items that caught your eye."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [image, title, description, categories]
+page-layout: full
+---
+
+::: {style="max-width: 640px; margin: 0 auto 2.5rem auto; text-align: center;"}
+
+Spotted something in one of my videos or Pins? Browse the posts below to find the featured products.
+
+::: {style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; letter-spacing: 1px; color: #6d7a86; margin-top: 1rem;"}
+This page contains affiliate links. Read our [Affiliate Disclosure](/affiliate-disclosure.qmd).
+:::
+
+:::
+
+## Browse the Feed

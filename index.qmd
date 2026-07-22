@@ -38,6 +38,7 @@ From container gardening to farm-grown wisdom: practical guides for every kind o
 Sustainable fashion guides, capsule wardrobes, and style inspiration. 
 
 [Explore Fashion →](fashion/index.qmd)
+
 :::
 
 ::: {.g-col-4}
@@ -48,6 +49,14 @@ Natural cleaning solutions, healthier home products, and practical ways to reduc
 :::
 
 ::::
+
+## Shop the Feed
+
+Saw one of my videos or Pins?
+
+Find the products featured in my videos and Pins, grouped exactly as shown.
+
+[Browse Shop the Feed →](shop/index.qmd)
 
 ## Latest Posts
 

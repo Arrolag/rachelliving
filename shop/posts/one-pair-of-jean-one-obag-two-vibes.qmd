@@ -1,0 +1,58 @@
+---
+title: "1 Pair of Jeans, 1 O Bag, 2 Vibes"
+description: 'Everything featured in my "1 Pair of Jeans, 1 O Bag, 2 Vibes" YouTube Short, grouped exactly as worn in each look.'
+author: "Rachel"
+date: 2026-07-21
+image: ../images/one-jean-one-obag-two-looks.webp
+categories: [Fashion, Shop the Feed]
+---
+
+::: {.callout-note appearance="simple"}
+## Affiliate Disclosure
+
+This article contains affiliate links. If you purchase through one of them, I may earn a small commission at no extra cost to you.
+:::
+
+
+## Watch the Video
+
+::: {style="max-width: 320px; margin: 0 auto 2rem auto; text-align: center;"}
+
+[![1 Pair of Jeans, 2 Vibes ](../images/one-jean-one-obag-two-looks.webp)](https://youtube.com/shorts/82mVlewiMlM?si=PZG2tWhbKcbloL8n){target="_blank"}
+
+**▶ Watch on YouTube**
+
+:::
+
+It was the sparkling rhinestones along the lower legs of these wide-leg, medium-wash jeans that caught my eye. And when something catches my eye like that, I escape to my lookbook and "cause a scene." Lol! The result was the two looks below. 
+
+
+## Foundation Pieces
+
+- [Rhinestone Jeans](https://s.click.aliexpress.com/e/_c2IMftrN){target="_blank"} sold by Semir Official Store
+
+- [Sand O Bag Body](https://s.click.aliexpress.com/e/_c3cNNuAr){target="_blank"} sold by Small Cute Store
+
+## Look 1: Daytime Casual
+
+- [White Tee](https://s.click.aliexpress.com/e/_c3ED47Kn){target="_blank"} sold by AMII AMII Official Store
+
+- [Black Pointed-Toe Low-Heel Shoes](https://s.click.aliexpress.com/e/_c3UCUNkJ){target="_blank"} sold by AIYUQI Official Store
+
+- [Black O Bag Insert](https://s.click.aliexpress.com/e/_c4OMBkVH){target="_blank"} sold by Small Cute Store
+
+- [Silvery O Bag Strap Holder](https://s.click.aliexpress.com/e/_c41Yig5N){target="_blank"} sold by Small Cute Store
+
+- [Canvas Strap with Diamond Patterns](https://s.click.aliexpress.com/e/_c4pnlzj9){target="_blank"} sold by HAVREDELUXE Official Store
+
+## Look 2: Evening Glam
+
+- [Pink Tweed Jacket](https://s.click.aliexpress.com/e/_c3C23nS3){target="_blank"} sold by ZJYT Women Apparel Official Store
+
+- [Black Metal Bag Strap](https://s.click.aliexpress.com/e/_c4l1EvlZ){target="_blank"} sold by ToDo Store
+
+
+## Related Shopping Finds
+
+Looking for more EVA bags inspired by the O Bag featured here? Read
+[My Favorite EVA Bag Finds on AliExpress](../../fashion/posts/my-favorite-EVA-bag-finds-on-AliExpress.qmd).

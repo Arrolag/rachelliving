@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Rachel Living"
+  site-url: "https://rachel-living.com"
   description: "Your guide to gardens, style, and clean living"
   navbar: false
   sidebar: false

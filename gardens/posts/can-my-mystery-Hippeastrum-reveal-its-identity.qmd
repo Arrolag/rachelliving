@@ -1,9 +1,9 @@
 ---
 title: "Can My Mystery Hippeastrum Reveal Its Identity?"
 description: "Could a little self-pollination finally solve the mystery of my variegated Hippeastrum? I'm waiting to find out."
-date: 2026-00-02
+date: 2026-09-02
 categories: [Tropical Gardening, Ornamental plants, Flowering Plants]
-image: "../../images/Hippeastrum-with-flower-best.webp"
+image: "../../images/phase-1-pod.webp"
 author: "Rachel"
 draft: false
 toc: true
@@ -42,7 +42,7 @@ I went ahead and self-pollinated my Hippy to see what would happen.
 As I write this, the seed pods have swelled beautifully. I still don't know whether they'll actually produce viable seeds, but so far, things are looking promising. In the beginning, the pods were round and green. Now, they're slowly turning yellowish as they mature.
 
 ::: {layout-ncol="2"}
-![](../images/phase-1-pod.webp){width="60%"}
+![](../images/phase-1b-pods.webp){width="60%"}
 
 ![](../images/phase-2-pod.webp){width="60%"}
 :::

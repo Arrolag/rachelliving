@@ -1,0 +1,20 @@
+# Affiliate link redirects
+# Format: /source-path  /destination-url  status-code
+
+/go/cgs-shoulder-bag      https://s.click.aliexpress.com/e/_c4aYA3xR    301
+/go/unetome-mini-obag      https://s.click.aliexpress.com/e/_c3RIfK6D    301
+/go/unetome-black-handles    https://s.click.aliexpress.com/e/_c4DgkEnL    301
+/go/unetome-liners     https://s.click.aliexpress.com/e/_c38aEbXr    301
+/go/fully-assembled-obag     https://s.click.aliexpress.com/e/_c3q7EL7f    301
+/go/li-ning-v2-casual-sneakers     https://s.click.aliexpress.com/e/_c3Xst0lB    301
+/go/puma-speedcat-racing-shoes     https://s.click.aliexpress.com/e/_c3aZvJfR    301
+/go/anta-qingkong-sneakers     https://s.click.aliexpress.com/e/_c33FlFBf    301
+/go/bona-laceup-shoes     https://s.click.aliexpress.com/e/_c4MZT4sN    301
+/go/adidas-adizero-shoes     https://s.click.aliexpress.com/e/_c3HMKxxf    301
+/go/adidas-gx4347-sneakers     https://s.click.aliexpress.com/e/_c4PASDPP    301
+/go/clear-pvc-coin-purse     https://s.click.aliexpress.com/e/_c4VDpObx    301
+/go/bborgdc-cosmetic-bag     https://amzn.to/4xJ8i2Q    301
+/go/insect-atlas-pvc-bag     https://amzn.to/4yqbmAZ    301
+/go/ovwqt-checkered-bag     https://amzn.to/3SQSITC    301
+/go/stoney-clover-lane-pouch     https://amzn.to/4gYxTxN    301
+/go/delfonics-quitterie-pouch     https://amzn.to/4crFd3C    301

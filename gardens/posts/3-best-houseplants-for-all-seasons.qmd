@@ -143,10 +143,10 @@ I sometimes polish the leaves with the inside of a banana peel for an extra glos
 
 ### 3. Snake Plant
 
-::: {layout-ncol="2"}
-![](../images/snakies.webp){width="60%"}
+::: {.photo-pair}
+![](../images/snakies.webp)
 
-![](../images/moonshine.webp){width="60%"}
+![](../images/moonshine.webp)
 :::
 
 ::: grid-caption

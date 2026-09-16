@@ -11,10 +11,10 @@ toc: true
 
 After posting a picture of my favorite variegated plant on the Reddit sub **r/VariegatedPlants**, several readers pointed out that what I thought was a Crinum was actually a Hippeastrum. Many thought it could be *H. reticulatum* or its hybrid, the much sought-after "Mrs Garfield." I later joined the Facebook group **Amaryllis and Hippeastrum Lovers**, where I learned a lot more about the plant I had already grown so fond of.
 
-::: {layout-ncol="2"}
-![](../images/hippeastrum-with-flower-four.webp){width="60%"}
+::: {.photo-pair}
+![](../images/hippeastrum-with-flower-four.webp)
 
-![](../images/flower-only.webp){width="60%"}
+![](../images/flower-only.webp)
 :::
 
 ::: grid-caption
@@ -41,10 +41,10 @@ I went ahead and self-pollinated my Hippy to see what would happen.
 
 As I write this, the seed pods have swelled beautifully. I still don't know whether they'll actually produce viable seeds, but so far, things are looking promising. In the beginning, the pods were round and green. Now, they're slowly turning yellowish as they mature.
 
-::: {layout-ncol="2"}
-![](../images/phase-1b-pods.webp){width="60%"}
+::: {.photo-pair}
+![](../images/phase-1b-pods.webp)
 
-![](../images/phase-2-pod.webp){width="60%"}
+![](../images/phase-2-pod.webp)
 :::
 
 ::: grid-caption

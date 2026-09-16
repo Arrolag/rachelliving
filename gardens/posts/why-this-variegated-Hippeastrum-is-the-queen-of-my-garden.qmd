@@ -15,10 +15,10 @@ The nursery owner told me it was a tulip. I remember wondering how a tulip could
 
 Somehow, he convinced me to buy two plants that day: the "tulip" and a corn plant. Looking back, I'm especially glad I bought the Hippeastrum.
 
-::: {layout-ncol="2"}
-![](../images/hippeastrum-only-two.webp){width="60%"}
+::: {.photo-pair}
+![](../images/hippeastrum-only-two.webp)
 
-![](../images/hippeastrum-only-one.webp){width="60%"}
+![](../images/hippeastrum-only-one.webp)
 :::
 
 ::: grid-caption
@@ -37,7 +37,7 @@ It didn't take long for the plant to win me over. Unlike the corn plant I bought
 
 What I admire most is its foliage. Those long, variegated leaves stay fresh and elegant throughout the year, even during the hottest months. They're usually the first thing visitors notice when they step into my backyard. Even the exposed bulbs have their own charm, sitting proudly above the soil like oversized shallots.
 
-![Hippeastrum bulbs](../images/hippeastrum-bulbs-two.webp){width="60%" fig-align="center"}
+![Hippeastrum bulbs](../images/hippeastrum-bulbs-two.webp){width="60%"}
 
 ### Beautiful, but Brief
 
@@ -45,10 +45,10 @@ Then there are the flowers. Lovely! They're what finally convinced me to find ou
 
 My only complaint is that the flowers don't stay around for long. Just as I begin to admire them, they're already fading. I always find myself wishing they would last a few more days.
 
-::: {layout-ncol="2"}
-![](../images/hippeastrum-with-flower-four.webp){width="60%"}
+::: {.photo-pair}
+![](../images/hippeastrum-with-flower-four.webp)
 
-![](../images/flower-only.webp){width="60%"}
+![](../images/flower-only.webp)
 :::
 
 ::: grid-caption

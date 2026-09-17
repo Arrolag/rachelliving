@@ -41,10 +41,10 @@ It can also be repurposed as an everyday wallet. Its interior compartments shoul
 
 ## If You Like a Glossy Finish
 
-::: {layout-ncol="2"}
-![](../images/ovwqt-bag-2.webp){width="60%"}
+::: {.photo-pair}
+![](../images/ovwqt-bag-2.webp)
 
-![](../images/ovwqt-bag-4.webp){width="60%"}
+![](../images/ovwqt-bag-4.webp)
 :::
 
 ::: {.grid-caption}

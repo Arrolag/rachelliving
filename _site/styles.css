@@ -1,9 +1,123 @@
-/* Google Font — loaded here as backup */
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+/* ============================================
+   Design tokens — Rachel Living brand system
+   ============================================ */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,400..500&family=Lora:ital,wght@0,400..600;1,400..500&family=Work+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --color-heading: #3B4632;    /* deep sage-charcoal for headings & title */
+  --color-text: #3F4438;       /* body copy */
+  --color-sage: #7D8C6A;       /* brand sage green — nav, footer, accents */
+  --color-sage-line: #C0DD97;  /* light sage rule/border */
+  --color-link: #7D8C6A;       /* CTA / link color, replaces Bootstrap blue */
+  --color-link-hover: #5C6B4C;
+
+  --font-display: 'Fraunces', serif;   /* site title, headings */
+  --font-body: 'Lora', serif;          /* article body copy */
+  --font-ui: 'Work Sans', sans-serif;  /* nav, tags, buttons, footer meta */
+}
 
 /* Hide Quarto's default navbar */
 #quarto-header {
   display: none;
+}
+
+/* ============================================
+   Masthead & navigation (used by _header.html)
+   ============================================ */
+.site-masthead {
+  text-align: center;
+  padding: 30px 0 15px 0;
+  background-color: #ffffff;
+}
+
+.site-title-link {
+  text-decoration: none;
+}
+
+.site-title {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 52px;
+  color: var(--color-heading);
+  line-height: 1;
+}
+
+.site-nav {
+  text-align: center;
+  padding: 14px 0;
+  background-color: #ffffff;
+  border-top: 0.5px solid var(--color-sage-line);
+  border-bottom: 1px solid var(--color-sage-line);
+  margin-bottom: 40px;
+}
+
+.site-nav a {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  color: var(--color-heading);
+  text-decoration: none;
+  margin: 0 14px;
+  text-transform: uppercase;
+}
+
+.site-nav a:hover {
+  color: var(--color-sage);
+}
+
+/* ============================================
+   Footer (used by page-footer in _quarto.yml)
+   ============================================ */
+.footer-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--color-sage);
+}
+
+.footer-links,
+.footer-meta {
+  font-family: var(--font-ui);
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--color-sage);
+}
+
+.footer-meta {
+  letter-spacing: 0.5px;
+}
+
+.footer-links a,
+.footer-meta a {
+  color: var(--color-sage);
+  text-decoration: none;
+}
+
+.footer-links a:hover,
+.footer-meta a:hover {
+  text-decoration: underline;
+}
+
+.nav-footer {
+  border-top: 0.5px solid var(--color-sage-line);
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* ============================================
+   Typography — headings & body
+   ============================================ */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--color-heading);
+}
+
+body,
+article p,
+article li {
+  font-family: var(--font-body);
+  color: var(--color-text);
 }
 
 /* Left-align article body text */
@@ -12,30 +126,32 @@ article li {
   text-align: left;
 }
 
-/* Footer styling */
-.nav-footer {
-  border-top: 0.5px solid #C0DD97;
-  padding: 20px 0;
-  text-align: center;
-}
-
 /* Improve readability */
 article p {
   line-height: 1.7;
 }
 
-/* Link Styling */
+/* ============================================
+   Links — brand sage green instead of Bootstrap blue
+   ============================================ */
 a {
+  color: var(--color-link);
   text-decoration-thickness: 1px;
 }
 
 a:hover {
+  color: var(--color-link-hover);
   text-decoration-thickness: 2px;
 }
 
-/* Constrain content width for readability */
+/* ============================================
+   Layout
+   ============================================ */
+
+/* Constrain content width for readability — widened from 960px
+   so the homepage image grid isn't squeezed */
 #quarto-content {
-  max-width: 960px;
+  max-width: 1140px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -50,4 +166,83 @@ figure > figcaption {
   font-size: 0.9rem;
   color: #6d7a86;
   margin-top: -0.8rem;
+}
+
+/* ============================================
+   Listing grid (homepage "Latest Posts", category pages)
+   Remove Bootstrap's card border/shadow for a clean,
+   editorial look — image sits directly on the page
+   ============================================ */
+.quarto-grid-item.card {
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.quarto-grid-item .card-body {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* ============================================
+   Article images
+   ============================================ */
+
+/* Safety-net fallback: if an image has no manual width="" set,
+   this stops it from overflowing the page. No !important, so any
+   image with a manual width="" attribute always wins as expected —
+   this rule only fills the gap for images that don't set one. */
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
+
+/* Two-image side-by-side layout. Use:
+     ::: {.photo-pair}
+     ![](a.webp)
+     ![](b.webp)
+     :::
+   Each image fills its half of the row. */
+.photo-pair {
+  display: flex;
+  gap: 16px;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+}
+
+.photo-pair p {
+  flex: 1 1 0;
+  min-width: 220px;
+  margin: 0;
+}
+
+.photo-pair img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+  .photo-pair {
+    flex-direction: column;
+  }
+}
+
+.shop-intro {
+  max-width: 640px;
+  margin: 0 auto 2.5rem auto;
+  text-align: center;
+}
+
+.shop-disclosure {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: var(--color-sage);
+  margin-top: 1rem;
 }

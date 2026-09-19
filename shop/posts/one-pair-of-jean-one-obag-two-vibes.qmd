@@ -29,27 +29,42 @@ It was the sparkling rhinestones along the lower legs of these wide-leg, medium-
 
 ## Foundation Pieces
 
-- [Rhinestone Jeans](https://s.click.aliexpress.com/e/_c2IMftrN){target="_blank"} sold by Semir Official Store
+::: {.shop-list}
+- [Rhinestone Jeans](https://s.click.aliexpress.com/e/_c2IMftrN){.shop-link target="_blank"}\
+  <span class="shop-store">Semir Official Store</span>
 
-- [Sand O Bag Body](https://s.click.aliexpress.com/e/_c3cNNuAr){target="_blank"} sold by Small Cute Store
+- [Sand O Bag Body](https://s.click.aliexpress.com/e/_c3cNNuAr){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
+:::
 
 ## Look 1: Daytime Casual
 
-- [White Tee](https://s.click.aliexpress.com/e/_c3ED47Kn){target="_blank"} sold by AMII AMII Official Store
+::: {.shop-list}
+- [White Tee](https://s.click.aliexpress.com/e/_c3ED47Kn){.shop-link target="_blank"}\
+  <span class="shop-store">AMII AMII Official Store</span>
 
-- [Black Pointed-Toe Low-Heel Shoes](https://s.click.aliexpress.com/e/_c3UCUNkJ){target="_blank"} sold by AIYUQI Official Store
+- [Black Pointed-Toe Low-Heel Shoes](https://s.click.aliexpress.com/e/_c3UCUNkJ){.shop-link target="_blank"}\
+  <span class="shop-store">AIYUQI Official Store</span>
 
-- [Black O Bag Insert](https://s.click.aliexpress.com/e/_c4OMBkVH){target="_blank"} sold by Small Cute Store
+- [Black O Bag Insert](https://s.click.aliexpress.com/e/_c4OMBkVH){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
 
-- [Silvery O Bag Strap Holder](https://s.click.aliexpress.com/e/_c41Yig5N){target="_blank"} sold by Small Cute Store
-
-- [Canvas Strap with Diamond Patterns](https://s.click.aliexpress.com/e/_c4pnlzj9){target="_blank"} sold by HAVREDELUXE Official Store
+- [Silvery O Bag Strap Holder](https://s.click.aliexpress.com/e/_c41Yig5N){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
+  
+- [Canvas Strap with Diamond Patterns](https://s.click.aliexpress.com/e/_c4pnlzj9){.shop-link target="_blank"}\
+  <span class="shop-store">HAVREDELUXE Official Store</span>
+:::
 
 ## Look 2: Evening Glam
 
-- [Pink Tweed Jacket](https://s.click.aliexpress.com/e/_c3C23nS3){target="_blank"} sold by ZJYT Women Apparel Official Store
+::: {.shop-list}
+- [Pink Tweed Jacket](https://s.click.aliexpress.com/e/_c3C23nS3){.shop-link target="_blank"}\
+  <span class="shop-store">ZJYT Women Apparel Official Store</span>
 
-- [Black Metal Bag Strap](https://s.click.aliexpress.com/e/_c4l1EvlZ){target="_blank"} sold by ToDo Store
+- [Black Metal Bag Strap](https://s.click.aliexpress.com/e/_c4l1EvlZ){.shop-link target="_blank"}\
+  <span class="shop-store">ToDo Store</span>
+:::
 
 
 ## Related Shopping Finds

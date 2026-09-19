@@ -246,3 +246,134 @@ article img {
   color: var(--color-sage);
   margin-top: 1rem;
 }
+
+/* ============================================
+   Contact button (About page, and reusable
+   anywhere else you want a branded CTA button)
+   ============================================ */
+.contact-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  background-color: var(--color-sage);
+  padding: 12px 28px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+
+.contact-button:hover {
+  background-color: var(--color-link-hover);
+  color: #ffffff;
+}
+
+/* ============================================
+   Social links (About page "Find Me On")
+   ============================================ */
+.social-links {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  font-family: var(--font-ui);
+  font-size: 14px;
+}
+
+.social-links a {
+  color: var(--color-sage);
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+/* ============================================
+   Shop the Feed — product link styling
+   ============================================ */
+.shop-list ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+.shop-list li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--color-sage-line);
+}
+
+.shop-list li:last-child {
+  border-bottom: none;
+}
+
+.shop-link {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--color-heading);
+  text-decoration: none;
+  border-bottom: 2px solid var(--color-sage);
+  padding-bottom: 1px;
+}
+
+.shop-link:hover {
+  color: var(--color-sage);
+}
+
+.shop-link::after {
+  content: " →";
+  color: var(--color-sage);
+}
+
+.shop-store {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  letter-spacing: 0.5px;
+  color: #8a9482;
+  margin-top: 2px;
+}
+
+/* ============================================
+   Homepage hero — botanical line-art accent
+   ============================================ */
+.hero {
+  position: relative;
+  margin: 0 0 3rem 0;
+  padding: 2rem 0 1rem 0;
+  overflow: hidden;
+}
+
+.hero-botanical {
+  position: absolute;
+  top: -20px;
+  right: -40px;
+  width: 320px;
+  height: auto;
+  opacity: 0.5;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.hero p {
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 700px) {
+  .hero-botanical {
+    width: 180px;
+    opacity: 0.35;
+  }
+}
+
+.about-avatar svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}

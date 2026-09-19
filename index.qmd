@@ -15,27 +15,41 @@ listing:
     fields: [image, date, title, description, categories]
 ---
 
-Here you'll find honest, research-backed guides on growing beautiful gardens, 
-building a conscious wardrobe, and maintaining a naturally clean home, so you 
-can make choices that are good for you and the planet.
+::: {.hero}
 
-Struggling to find truly non-toxic cleaning solutions? Looking for durable gardening tools that actually last?
-Trying to build a wardrobe that reflects your values? You'll find practical answers here. 
+<svg class="hero-botanical" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M40,380 C90,330 130,290 170,240 C210,190 240,140 300,60" fill="none" stroke="#C0DD97" stroke-width="2" stroke-linecap="round"/>
+  <g stroke="#C0DD97" stroke-width="1.5" fill="none">
+    <path d="M80,340 C95,315 120,310 140,320 C125,340 100,345 80,340 Z"/>
+    <path d="M140,290 C160,270 185,270 200,285 C182,300 158,302 140,290 Z" transform="rotate(-10 170 285)"/>
+    <path d="M190,235 C210,215 235,215 250,230 C232,245 208,248 190,235 Z" transform="rotate(-15 220 232)"/>
+    <path d="M235,175 C255,158 278,160 292,175 C275,190 252,190 235,175 Z" transform="rotate(-20 263 175)"/>
+    <path d="M275,110 C295,95 316,98 328,112 C312,126 290,125 275,110 Z" transform="rotate(-25 300 110)"/>
+  </g>
+</svg>
 
-## What You'll Find Here
+I write about the things I genuinely enjoy growing, wearing, and using.
+
+Rachel Living is where I share what I’ve learned along the way, from growing plants in my backyard to finding clothes I actually want to wear and simpler ways to keep my home clean.
+
+Some of my guides are research-backed. Others come from years of trying things for myself. Either way, I’m interested in what works in real life.
+
+:::
+
+## Around Here
 
 ::::  {.grid}
 
 ::: {.g-col-4}
 ### Gardens
-From container gardening to farm-grown wisdom: practical guides for every kind of grower.
+Plants, pots, gardening experiments, and the lessons that come from getting your hands dirty.
 
 [Explore Gardens →](gardens/index.qmd)
 :::
 
 ::: {.g-col-4}
 ### Fashion
-Sustainable fashion guides, capsule wardrobes, and style inspiration. 
+Personal style, wardrobe ideas, and pieces worth talking about. 
 
 [Explore Fashion →](fashion/index.qmd)
 
@@ -43,7 +57,7 @@ Sustainable fashion guides, capsule wardrobes, and style inspiration.
 
 ::: {.g-col-4}
 ### Clean Living
-Natural cleaning solutions, healthier home products, and practical ways to reduce everyday toxins.
+Natural cleaning solutions, healthier home products, and simple ways to create a cleaner, more comfortable home.
 
 [Explore Clean Living →](clean-living/index.qmd)
 :::
@@ -65,4 +79,4 @@ Find the products featured in my videos and Pins, grouped exactly as shown.
 
 ---
 
-*Recommendations are based on independent research, careful evaluation, and a commitment to sustainable living principles.*
+*I research the products I feature and share my honest opinions and experiences.*

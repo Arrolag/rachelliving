@@ -29,27 +29,42 @@ I put together two entirely different looks using one maxi dress and one O bag a
 
 ## Foundation Pieces
 
-- [Floral Maxi Dress](https://s.click.aliexpress.com/e/_c3DCO8Ej){target="_blank"} sold by VGH
+::: {.shop-list}
+- [Floral Maxi Dress](https://s.click.aliexpress.com/e/_c3DCO8Ej){.shop-link target="_blank"}\
+  <span class="shop-store">VGH</span>
 
-- [Sand O Bag Body](https://s.click.aliexpress.com/e/_c378wSsJ){target="_blank"} sold by Small Cute Store
+- [Sand O Bag Body](https://s.click.aliexpress.com/e/_c378wSsJ){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
+:::
 
 ## Look 1: Everyday Soft
 
-- [Silver Puma Ballet Flats](https://s.click.aliexpress.com/e/_c3loMNfv){target="_blank"} sold by Active Motion Hub Store
+::: {.shop-list}
+- [Silver Puma Ballet Flats](https://s.click.aliexpress.com/e/_c3loMNfv){.shop-link target="_blank"}\
+  <span class="shop-store">Active Motion Hub Store</span>
 
-- [Silver Canvas Bag Strap](https://s.click.aliexpress.com/e/_c409Y2Tl){target="_blank"} sold by Dongsuo Official Store
+- [Silver Canvas Bag Strap](https://s.click.aliexpress.com/e/_c409Y2Tl){.shop-link target="_blank"}\
+  <span class="shop-store">Dongsuo Official Store</span>
 
-- [Silver Leather Strap Holder](https://s.click.aliexpress.com/e/_c4tUV0bl){target="_blank"} sold by Small Cute Store
+- [Silver Leather Strap Holder](https://s.click.aliexpress.com/e/_c4tUV0bl){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
 
-- [Drawstring Insert for O bag (Natural Color)](https://s.click.aliexpress.com/e/_c3VDc64n){target="_blank"} sold by Small Cute Store
+- [Drawstring Insert for O bag (Natural Color](https://s.click.aliexpress.com/e/_c3VDc64n){.shop-link target="_blank"}\
+  <span class="shop-store">Small Cute Store</span>
+:::
 
 ## Look 2: Elevated Edge
 
-- [Cropped Denim Jacket](https://s.click.aliexpress.com/e/_c3Du6mPd){target="_blank"} sold by Sentubila Brand Store
+::: {.shop-list}
+- [Cropped Denim Jacket](https://s.click.aliexpress.com/e/_c3Du6mPd){.shop-link target="_blank"}\
+  <span class="shop-store">Sentubila Brand Store</span>
 
-- [Black Pointed-Toe Boots](https://s.click.aliexpress.com/e/_c4bwgHM7){target="_blank"} sold by Ovanasoya Store
+- [Black Pointed-Toe Boots](https://s.click.aliexpress.com/e/_c4bwgHM7){.shop-link target="_blank"}\
+  <span class="shop-store">Ovanasoya Store</span>
 
-- [Blue/White Floral Strap](https://s.click.aliexpress.com/e/_c4sms0Fd){target="_blank"}
+- [Blue/White Floral Strap](https://s.click.aliexpress.com/e/_c4sms0Fd){.shop-link target="_blank"}\
+  <span class="shop-store"></span>
+:::
 
 ## Related Shopping Finds
 

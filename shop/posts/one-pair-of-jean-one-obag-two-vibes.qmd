@@ -1,6 +1,6 @@
 ---
 title: "1 Pair of Jeans, 1 O Bag, 2 Vibes"
-description: 'Everything featured in my "1 Pair of Jeans, 1 O Bag, 2 Vibes" YouTube Short, grouped exactly as worn in each look.'
+description: 'Everything featured in my "1 Pair of Jeans, 1 O Bag, 2 Vibes" YouTube Short.'
 author: "Rachel"
 date: 2026-07-21
 image: ../images/one-jean-one-obag-two-looks.webp

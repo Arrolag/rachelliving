@@ -1,9 +1,27 @@
 [
   {
-    "listing": "/shop/index.html",
+    "listing": "/fashion/index.html",
     "items": [
-      "/shop/posts/one-boho-dress-two-vibe-shifts.html",
-      "/shop/posts/one-pair-of-jean-one-obag-two-vibes.html"
+      "/fashion/posts/my-favorite-EVA-bag-finds-on-AliExpress.html",
+      "/fashion/posts/my-favorite-mesh-sneakers-from-AliExpress.html",
+      "/fashion/posts/5-PVC-pouches-I-would-try-after-my-PU-wallets-grew-mold.html",
+      "/fashion/posts/why-i-ditched-my-premium-pu-leather-wallets-for-a-cheaper-pvc-pouch.html"
+    ]
+  },
+  {
+    "listing": "/clean-living/index.html",
+    "items": [
+      "/clean-living/posts/fixing-sandstone-in-high-humidity.html"
+    ]
+  },
+  {
+    "listing": "/gardens/index.html",
+    "items": [
+      "/gardens/posts/seven-clay-pots-on-aliexpress-I-would-actually-use-for-my-plants.html",
+      "/gardens/posts/can-my-mystery-Hippeastrum-reveal-its-identity.html",
+      "/gardens/posts/why-this-variegated-Hippeastrum-is-the-queen-of-my-garden.html",
+      "/gardens/posts/3-best-houseplants-for-all-seasons.html",
+      "/gardens/posts/best-houseplants-for-great-skin.html"
     ]
   },
   {
@@ -22,28 +40,11 @@
     ]
   },
   {
-    "listing": "/gardens/index.html",
+    "listing": "/shop/index.html",
     "items": [
-      "/gardens/posts/seven-clay-pots-on-aliexpress-I-would-actually-use-for-my-plants.html",
-      "/gardens/posts/can-my-mystery-Hippeastrum-reveal-its-identity.html",
-      "/gardens/posts/why-this-variegated-Hippeastrum-is-the-queen-of-my-garden.html",
-      "/gardens/posts/3-best-houseplants-for-all-seasons.html",
-      "/gardens/posts/best-houseplants-for-great-skin.html"
-    ]
-  },
-  {
-    "listing": "/clean-living/index.html",
-    "items": [
-      "/clean-living/posts/fixing-sandstone-in-high-humidity.html"
-    ]
-  },
-  {
-    "listing": "/fashion/index.html",
-    "items": [
-      "/fashion/posts/my-favorite-EVA-bag-finds-on-AliExpress.html",
-      "/fashion/posts/my-favorite-mesh-sneakers-from-AliExpress.html",
-      "/fashion/posts/5-PVC-pouches-I-would-try-after-my-PU-wallets-grew-mold.html",
-      "/fashion/posts/why-i-ditched-my-premium-pu-leather-wallets-for-a-cheaper-pvc-pouch.html"
+      "/shop/posts/10-jean-personalities-for-women.html",
+      "/shop/posts/one-boho-dress-two-vibe-shifts.html",
+      "/shop/posts/one-pair-of-jean-one-obag-two-vibes.html"
     ]
   }
 ]

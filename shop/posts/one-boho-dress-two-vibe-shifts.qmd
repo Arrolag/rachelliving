@@ -1,6 +1,6 @@
 ---
 title: "1 Boho Dress, 2 Vibe Shifts"
-description: 'Everything featured in my "1 Boho Dress, 2 Vibe Shifts" YouTube Short, grouped exactly as worn in each look.'
+description: 'Everything featured in my "1 Boho Dress, 2 Vibe Shifts" YouTube Short.'
 author: "Rachel"
 date: 2026-07-22
 image: ../images/one-dress-one-obag-shop.webp

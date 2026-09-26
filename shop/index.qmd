@@ -8,7 +8,7 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: true
-  fields: [image, title, description, categories]
+  fields: [image, title, description]
 page-layout: full
 ---
 

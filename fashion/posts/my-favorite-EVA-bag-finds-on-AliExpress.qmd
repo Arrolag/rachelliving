@@ -1,6 +1,6 @@
 ---
 title: "My Favorite EVA Bag Finds on AliExpress"
-description: "A quick shopping list of EVA tote bags that caught my eye while browsing AliExpress. These are curated finds, not hands-on reviews."
+description: "If you don't have an EVA bag yet, here are a few I think you'll love."
 date: 2026-07-11
 categories: [Fashion, Shopping Finds, Bags]
 image: "../../images/shoulderbag-yellow.png"

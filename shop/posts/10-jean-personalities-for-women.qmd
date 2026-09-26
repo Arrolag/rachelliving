@@ -1,6 +1,6 @@
 ---
 title: "10 Jean Personalities for Women"
-description: 'All the 10 pairs of jeans featured in my "10 Jean Personalities for Women" YouTube Short.'
+description: "A look at ten jean styles for women, each with its own personality."
 author: "Rachel"
 date: 2026-09-21
 image: ../images/10-jean-personalities.webp

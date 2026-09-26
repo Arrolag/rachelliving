@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: _site
-  resources: 
-      - google4a78e1126ae1d743.html
-      - _redirects
+  resources:
+    - google4a78e1126ae1d743.html
+    - _redirects
 
 website:
   title: "Rachel Living"
@@ -20,8 +20,6 @@ website:
           <a href="/privacy-policy.qmd">Privacy Policy</a>
           &nbsp;·&nbsp;
           <a href="/affiliate-disclosure.qmd">Affiliate Disclosure</a>
-          &nbsp;·&nbsp;
-          <a href="/shop/">Shop the Feed</a>
         </span>
         <br>
         <span class="footer-meta">© 2026 · ALL RIGHTS RESERVED</span>

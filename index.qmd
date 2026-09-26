@@ -9,10 +9,9 @@ listing:
       - clean-living/posts
     sort: "date desc"
     type: grid
-    image-height: "180px" # Forces all thumbnails to the exact same height
     max-items: 6
     categories: false
-    fields: [image, date, title, description, categories]
+    fields: [image, date, title, description]
 ---
 
 ::: {.hero}
@@ -33,6 +32,16 @@ I write about the things I genuinely enjoy growing, wearing, and using.
 Rachel Living is where I share what I’ve learned along the way, from growing plants in my backyard to finding clothes I actually want to wear and simpler ways to keep my home clean.
 
 Some of my guides are research-backed. Others come from years of trying things for myself. Either way, I’m interested in what works in real life.
+
+:::
+
+::: {.shop-cta}
+
+## Shop the Feed
+
+Saw one of my videos or Pins? Find the products featured in each one, grouped exactly as shown.
+
+<a href="shop/index.qmd" class="contact-button">Browse Shop the Feed →</a>
 
 :::
 
@@ -63,14 +72,6 @@ Natural cleaning solutions, healthier home products, and simple ways to create a
 :::
 
 ::::
-
-## Shop the Feed
-
-Saw one of my videos or Pins?
-
-Find the products featured in my videos and Pins, grouped exactly as shown.
-
-[Browse Shop the Feed →](shop/index.qmd)
 
 ## Latest Posts
 

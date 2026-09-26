@@ -1,6 +1,6 @@
 ---
 title: "Can My Mystery Hippeastrum Reveal Its Identity?"
-description: "Could a little self-pollination finally solve the mystery of my variegated Hippeastrum? I'm waiting to find out."
+description: "I self-pollinated my mystery Hippeastrum to find out whether it's Hippeastrum reticulatum or Mrs Garfield."
 date: 2026-09-02
 categories: [Tropical Gardening, Ornamental plants, Flowering Plants]
 image: "../../images/phase-1-pod.webp"

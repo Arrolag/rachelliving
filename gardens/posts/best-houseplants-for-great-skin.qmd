@@ -1,6 +1,6 @@
 ---
 title: "3 Best Houseplants for Great Skin"
-description: "These three amazing houseplants don't just look good, they could make you look good too"
+description: "A round-up of three houseplants that are good for your skin."
 date: 2026-06-15
 categories: [houseplants, skincare, natural-beauty]
 image: "../../images/aloe-vera.webp"

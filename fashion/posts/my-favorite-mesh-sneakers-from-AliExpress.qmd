@@ -1,6 +1,6 @@
 ---
 title: "My Favorite Mesh Sneakers from AliExpress"
-description: "Inspired by my own mesh sneakers, here are ten breathable AliExpress finds I'd happily add to my shopping list."
+description: "Don't we all just love how breathable and lightweight mesh sneakers really are? Yeah, I forgot to mention *sexy* too!"
 date: 2026-07-11
 categories: [Fashion, Shopping Finds, Sneakers]
 image: "../../images/my-mesh-sneakers.webp"

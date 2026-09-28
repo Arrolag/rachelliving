@@ -13,15 +13,12 @@ categories: [Fashion, Shop the Feed]
 This article contains affiliate links. If you purchase through one of them, I may earn a small commission at no extra cost to you.
 :::
 
-
 ## Watch the Video
 
 ::: {style="max-width: 320px; margin: 0 auto 2rem auto; text-align: center;"}
-
-[![10 Jean Personalities for Women ](../images/10-jean-personalities.webp)](https://youtube.com/shorts/o5J-uSUQjd4?si=aGwqDi82pAWuZT2X){target="_blank"}
+[![10 Jean Personalities for Women](../images/10-jean-personalities.webp)](https://youtube.com/shorts/o5J-uSUQjd4?si=aGwqDi82pAWuZT2X)
 
 **▶ Watch on YouTube**
-
 :::
 
 I recently lost some weight and thought it was time to sort through my wardrobe, especially my jeans because, boy, don't I have a big collection! I have a pair of white straight-leg jeans with sequin-embellished back pockets that I've only worn once or twice, if I remember correctly. Then there's the cropped wide-leg culotte jeans that I absolutely love wearing to the farmers' market. And then there's the boyfriend jeans, the jeggings, the frayed-hem jeans. Sigh. So many!
@@ -30,72 +27,72 @@ And that got me thinking: why not do a Short featuring a range of jean personali
 
 ## Sleek
 
-::: {.shop-list}
+::: shop-list
 - [Skinny Jeans](/go/skinny-chic-ven-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">CHIC VEN Official Store</span>
+  [CHIC VEN Official Store]{.shop-store}
 :::
 
 ## Effortless
 
-::: {.shop-list}
+::: shop-list
 - [Wide-Leg Jeans](/go/wide-leg-dushu-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">DUSHU Official Store</span>
+  [DUSHU Official Store]{.shop-store}
 :::
 
 ## Modern
 
-::: {.shop-list}
+::: shop-list
 - [Barrel-Leg Jeans](/go/barrel-leg-dushu-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">DUSHU Official Store</span>
+  [DUSHU Official Store]{.shop-store}
 :::
 
 ## Polished
 
-::: {.shop-list}
+::: shop-list
 - [Tapered Denim](/go/tapered-semir-denim){.shop-link target="_blank"}\
-  <span class="shop-store">Semir Official Store</span>
+  [Semir Official Store]{.shop-store}
 :::
 
 ## Relaxed
 
-::: {.shop-list}
+::: shop-list
 - [Cropped Straight-Leg Jeans](/go/straight-leg-dushu-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">DUSHU Official Store</span>
+  [DUSHU Official Store]{.shop-store}
 :::
 
 ## Feminine
 
-::: {.shop-list}
+::: shop-list
 - [Flared Jeans](/go/flared-amii-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">AMII Official Store</span>
+  [AMII Official Store]{.shop-store}
 :::
 
 ## Retro
 
-::: {.shop-list}
+::: shop-list
 - [Ripped Bell-Bottom Jeans](/go/ripped-bell-bottom-jeans-maden){.shop-link target="_blank"}\
-  <span class="shop-store">MADEN Women Wear Store</span>
+  [MADEN Women Wear Store]{.shop-store}
 :::
 
 ## Edgy
 
-::: {.shop-list}
+::: shop-list
 - [Ripped Denim Jeans](/go/ripped-denim-jeans-maden){.shop-link target="_blank"}\
-  <span class="shop-store">MADEN Women Wear Store</span>
+  [MADEN Women Wear Store]{.shop-store}
 :::
 
 ## Rebel
 
-::: {.shop-list}
+::: shop-list
 - [Distressed Straight-Leg Jeans](/go/straight-leg-semir-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">Semir Official Store Store</span>
+  [Semir Official Store Store]{.shop-store}
 :::
 
 ## Glam
 
-::: {.shop-list}
+::: shop-list
 - [Rhinestone Straight-Leg Jeans](/go/rhinestone-straight-leg-dushu-jeans){.shop-link target="_blank"}\
-  <span class="shop-store">DUSHU Official Store Store</span>
+  [DUSHU Official Store Store]{.shop-store}
 :::
 
 ## Which One Would You Pick?

@@ -11,6 +11,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/gardens/posts/likely-a-mrs-garfield.html",
       "/gardens/posts/seven-clay-pots-on-aliexpress-I-would-actually-use-for-my-plants.html",
       "/gardens/posts/can-my-mystery-Hippeastrum-reveal-its-identity.html",
       "/gardens/posts/why-this-variegated-Hippeastrum-is-the-queen-of-my-garden.html",
@@ -24,13 +25,12 @@
     ]
   },
   {
-    "listing": "/gardens/index.html",
+    "listing": "/fashion/index.html",
     "items": [
-      "/gardens/posts/seven-clay-pots-on-aliexpress-I-would-actually-use-for-my-plants.html",
-      "/gardens/posts/can-my-mystery-Hippeastrum-reveal-its-identity.html",
-      "/gardens/posts/why-this-variegated-Hippeastrum-is-the-queen-of-my-garden.html",
-      "/gardens/posts/3-best-houseplants-for-all-seasons.html",
-      "/gardens/posts/best-houseplants-for-great-skin.html"
+      "/fashion/posts/my-favorite-EVA-bag-finds-on-AliExpress.html",
+      "/fashion/posts/my-favorite-mesh-sneakers-from-AliExpress.html",
+      "/fashion/posts/5-PVC-pouches-I-would-try-after-my-PU-wallets-grew-mold.html",
+      "/fashion/posts/why-i-ditched-my-premium-pu-leather-wallets-for-a-cheaper-pvc-pouch.html"
     ]
   },
   {
@@ -40,12 +40,14 @@
     ]
   },
   {
-    "listing": "/fashion/index.html",
+    "listing": "/gardens/index.html",
     "items": [
-      "/fashion/posts/my-favorite-EVA-bag-finds-on-AliExpress.html",
-      "/fashion/posts/my-favorite-mesh-sneakers-from-AliExpress.html",
-      "/fashion/posts/5-PVC-pouches-I-would-try-after-my-PU-wallets-grew-mold.html",
-      "/fashion/posts/why-i-ditched-my-premium-pu-leather-wallets-for-a-cheaper-pvc-pouch.html"
+      "/gardens/posts/likely-a-mrs-garfield.html",
+      "/gardens/posts/seven-clay-pots-on-aliexpress-I-would-actually-use-for-my-plants.html",
+      "/gardens/posts/can-my-mystery-Hippeastrum-reveal-its-identity.html",
+      "/gardens/posts/why-this-variegated-Hippeastrum-is-the-queen-of-my-garden.html",
+      "/gardens/posts/3-best-houseplants-for-all-seasons.html",
+      "/gardens/posts/best-houseplants-for-great-skin.html"
     ]
   }
 ]

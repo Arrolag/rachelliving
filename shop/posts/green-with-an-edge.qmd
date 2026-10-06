@@ -1,6 +1,6 @@
 ---
 title: "Green with an Edge"
-description: "I realized I had almost no green in my wardrobe, even though it's one of my lucky colors, so I created these looks to change that."
+description: "I realized I had almost no green in my wardrobe, even though it's one of my lucky colors. So, I created these looks to change that."
 author: "Rachel"
 date: 2026-10-06
 image: ../images/green-with-an-edge.webp
